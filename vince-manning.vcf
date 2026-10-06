@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//ChatGPT//vCard 3.0//EN
+FN:Vince Manning
+N:Manning;Vince;;
+ORG:Phoenix American Companies
+TITLE:Director, Partner Performance & Development
+TEL;TYPE=cell,voice:+1-817-683-6756
+EMAIL;TYPE=INTERNET,work:vmanning@phoenixec.com
+URL:https://www.phoenixec.com
+ADR;TYPE=work:;;6303 Waterford District Drive;Miami;FL;33126;USA
+REV:20250918T135246Z
+END:VCARD
